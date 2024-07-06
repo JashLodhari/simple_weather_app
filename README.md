@@ -12,6 +12,6 @@ Now, go to terminal section in android studio and enter "Flutter run" command to
 
 This is a simple live weather application developed using flutter.
 
-With a user friendly ineterface and easy to use.
+With a user friendly interface and easy to use.
 
 User have to first type the city name in the given search field and click on 'Get Weather' button to get the weather of entered city.
