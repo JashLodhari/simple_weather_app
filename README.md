@@ -1,16 +1,17 @@
 # weather_application
 
-A new Flutter project.
+# to run the project simply go through following steps
 
-## Getting Started
+To run this project, you simple need to download the code from this repository and open it in android studio.
 
-This project is a starting point for a Flutter application.
+After opening this project in android studio first make sure that you have flutter install in your system then only this project will run otherwise not.
 
-A few resources to get you started if this is your first Flutter project:
+Now, go to terminal section in android studio and enter "Flutter run" command to start running the project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# about this project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a simple live weather application developed using flutter.
+
+With a user friendly ineterface and easy to use.
+
+User have to first type the city name in the given search field and click on 'Get Weather' button to get the weather of entered city.
